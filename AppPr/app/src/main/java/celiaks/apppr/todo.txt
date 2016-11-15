@@ -1,0 +1,7 @@
+prevent dialog from closing if empty form field
+**un produit ne peut pas rester sans prix
+date par default utiliser now
+adding description
+make better design
+ne pas supprimer le dernier prix
+enregister dabord le prix puis le produits
